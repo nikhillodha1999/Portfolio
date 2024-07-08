@@ -5,7 +5,7 @@ document.querySelector('.menu-toggle').addEventListener('click', function () {
 
 
 var typed = new Typed(".text", {
-    strings: ["Frontend Developer", "Software Developer"],
+    strings: ["Frontend Developer", "UI/UX Designer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
